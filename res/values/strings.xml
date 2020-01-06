@@ -113,6 +113,8 @@
     <string name="accent_colors_red">Red</string>
     <string name="accent_colors_teal">Teal</string>
     <string name="accent_colors_yellow">Yellow</string>
+
+    <!-- Fancy Accents -->
     <string name="accent_colors_androidonegreen">AndroidOneGreen</string>
     <string name="accent_colors_cocacolared">CocaColaRed</string>
     <string name="accent_colors_discordpurple">DiscordPurple</string>
