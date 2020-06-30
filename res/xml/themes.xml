@@ -57,6 +57,11 @@
         android:entries="@array/statusbar_icons_titles"
         android:entryValues="@array/statusbar_icons_values" />
 
+    <Preference
+        android:key="theme_qsstyle_picker"
+        android:title="@string/theme_qsstyle_picker_title"
+        android:summary="@string/theme_qsstyle_picker_summary" />
+
     <PreferenceCategory
         android:title="@string/theme_type_title" >
 

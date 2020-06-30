@@ -156,5 +156,13 @@
     <string name="theme_schedule_toasts_title">Toast-Nachrichten anzeigen</string>
     <string name="theme_schedule_toasts_summary">Immer wenn ein geplanter UI-Stil aktiviert wird, erscheint eine Toast-Nachricht</string>
 
+    <!-- QS tile styles -->
+    <string name="theme_qsstyle_picker_title">Aussehen der QS-Kacheln</string>
+    <string name="theme_qsstyle_picker_summary">Wähle den Stil für die QS-Kacheln</string>
+    <string name="qstile_default">Standard</string>
+    <string name="qstile_circle_trim">Einfach umrandeter Kreis</string>
+    <string name="qstile_dual_tone_circle">Zweifarbiger umrandeter Kreis</string>
+    <string name="qstile_squircle_trim">Abgerundetes Quadrat</string>
+
 </resources>
 
