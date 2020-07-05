@@ -135,10 +135,12 @@
     <string name="theme_switch_restore_font_type">Schrifttyp</string>
     <string name="theme_switch_restore_adaptative_icons">Adaptive Symbole</string>
     <string name="theme_switch_restore_sb_icons">Statusleisten-Symbole</string>
+    <string name="theme_switch_restore_qstiles">Schnellkacheln</string>
+    <string name="theme_switch_restore_navbar">Navigationsleiste</string>
     <string name="theme_switch_restore_wallpaper">Hintergrund</string>
     <string name="theme_backup_edittext_hint">Sicherung_</string>
     <string name="theme_backup_dialog_title">Live-Hintergrundbild erkannt</string>
-    <string name="theme_backup_dialog_message">Es scheint, dass Sie ein Live-Hintergrundbild angewendet haben.\n\nBitte beachten Sie, dass Live-Hintergrundbilder nicht gesichert werden. Stattdessen wird das Standard-Hintergrundbild gesichert.</string>
+    <string name="theme_backup_dialog_message">Es scheint so, dass du ein Live-Hintergrundbild verwendest.\n\nBitte beachte, dass Live-Hintergrundbilder nicht gesichert werden. Stattdessen wird das Standard-Hintergrundbild gesichert.</string>
     <string name="theme_reset_dialog_title">Alle Stiländerungen zurücksetzen</string>
     <string name="theme_reset_dialog_message">Alle Stiländerungen werden auf die jeweilige Standardeinstellung zurückgesetzt. Der Zeitplan ist davon nicht betroffen.</string>
     <string name="theme_reset_toast">Stiländerungen auf Standard zurückgesetzt</string>
@@ -159,8 +161,8 @@
     <string name="theme_schedule_toasts_summary">Immer wenn ein geplanter UI-Stil aktiviert wird, erscheint eine Toast-Nachricht</string>
 
     <!-- QS tile styles -->
-    <string name="theme_qsstyle_picker_title">Aussehen der QS-Kacheln</string>
-    <string name="theme_qsstyle_picker_summary">Wähle den Stil für die QS-Kacheln</string>
+    <string name="theme_qsstyle_picker_title">Aussehen der Schnellkacheln</string>
+    <string name="theme_qsstyle_picker_summary">Wähle den Stil für die Schnellkacheln</string>
     <string name="qstile_default">Standard</string>
     <string name="qstile_circle_trim">Einfach umrandeter Kreis</string>
     <string name="qstile_dual_tone_circle">Zweifarbiger umrandeter Kreis</string>
